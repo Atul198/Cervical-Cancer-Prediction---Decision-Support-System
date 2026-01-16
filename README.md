@@ -13,13 +13,8 @@ DSS CERVICAL/
 │ ├── cervical_cancer.csv
 │ └── cervical_cancer.xlt
 │
-├── figures/
-│ └── (EDA plots and visualizations)
-│
 ├── src/
 │ ├── cervical_cancer.ipynb
-│
-├── venv/
 │
 ├── requirements.txt
 └── README.md
