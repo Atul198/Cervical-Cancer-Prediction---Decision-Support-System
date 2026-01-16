@@ -72,6 +72,8 @@ DSS CERVICAL/
   - scikit-learn
   - plotly
   - imblearn
+  - kaleido # to Save Plots in figures
+  - statsmodels
  
 ---
 
