@@ -1,0 +1,9 @@
+pandas # working on Dataset 
+numpy # working on dataset
+matplotlib # visualisation
+seaborn # visualisation
+scikit-learn # working with machine learning part
+plotly # Visualisation
+imbalanced-learn #Used to balance imbalance data
+kaleido # to Save Plots in figures
+statsmodels
